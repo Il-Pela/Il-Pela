@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Il-Pela (also known as Francesco)
-- 👀 I’m interested in Data in general
-- 🌱 I’m currently learning how to use Apache Kafka
+- 👋 Hi, I’m Francesco a Big Data Engineer at AgileLab
+- 👀 I’m interested in Data and Tech in general
+- 🌱 I’m currently learning how to use Apache Flink
 - 📫 How to reach me francesco.pelacani98@gmail.com
 
 <!---
